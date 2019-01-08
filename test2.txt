@@ -1,4 +1,8 @@
 abcd
 efg
+<<<<<<< HEAD
 fuck
+=======
+hij
+>>>>>>> 7105cc7993936868fcf5d4e0b9350631387f28cb
 kl
